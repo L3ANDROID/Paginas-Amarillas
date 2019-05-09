@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_cardview">#6A50A5</color>
+    <color name="color_card_view">#1F1E1C</color>
+    <color name="color_relative_layout">#201F1F</color>
+    <color name="color_button_search">#66A3BD</color>
+    <color name="color_text_button_search">#99141413</color>
+    <color name="color_layout_title_activity">#131312</color>
+    <color name="text_color_title_principal">#FFEB3B</color>
+    <color name="color_result_view">#FFEB3B</color>
+    <color name="title_item_cardview">#F70E0D0D</color>
+    <color name="color_detail_linear_layout">#7A813E</color>
+    <color name="color_horizontal_layout">#EDF8F2F2</color>
+    <color name="color_scroll_view">#FA0A0404</color>
+    <color name="color_button_call">#fff</color>
+    <color name="colortext_button_web">#fff</color>
+    <color name="colortext_button_share">#fff</color>
+    <color name="colortext_button_message">#fff</color>
+    <color name="colortext_button_email">#fff</color>
+
+</resources>
